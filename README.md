@@ -82,7 +82,7 @@ and more...
 
 [![GitHub stats](https://github-readme-stats-eight-theta.vercel.app/api?username=qiweiii&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=qiweiii&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=qiweiii&langs_count=8&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ---
