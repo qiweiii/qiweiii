@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 <h1>
   Hey there
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"/>
 </h1>
 
 <img src="https://komarev.com/ghpvc/?username=qiweiii&style=flat-square&color=blue" alt=""/>
