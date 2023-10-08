@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 
 - :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building *web2* and *web3* applications.
 
-- :zap: In my free time, I love to watch shows 🎥, read books 📙, play badminton 🏸, go hiking ⛰️ and play guitar 🎸.
+- :zap: In my free time, I love to watch shows 🎥, play badminton 🏸, go hiking ⛰️, go skiing 🎿 and play guitar 🎸.
 
 - :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-ShangHai-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/qiwei-yang-679617142)
 
