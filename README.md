@@ -19,14 +19,15 @@ Here are some ideas to get you started:
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"/>
 </h1>
 
+<a href="https://www.linkedin.com/in/qiwei-yang-679617142">
+  <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+</a>
+&nbsp;
+<a href="https://qiweiy.me">
+  <img src="https://img.shields.io/badge/My%20Website-blue" alt="My Website"/>
+</a>
+&nbsp;
 <img src="https://komarev.com/ghpvc/?username=qiweiii&style=flat-square&color=blue" alt=""/>
-
-<!-- ad more badges when I have other social accounts -->
-<!-- <div id="badges">
-  <a href="https://www.linkedin.com/in/qiwei-yang-679617142">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-</div> -->
 
 
 ### :man_technologist: About Me :
@@ -36,8 +37,6 @@ Here are some ideas to get you started:
 - :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building *web2* and *web3* applications.
 
 - :zap: In my free time, I love to watch shows 🎥, play badminton 🏸, go hiking ⛰️, go skiing 🎿 and play guitar 🎸.
-
-- :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-ShangHai-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/qiwei-yang-679617142)
 
 
 ---
@@ -85,9 +84,3 @@ Here are some ideas to get you started:
   &nbsp;
   <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=qiweiii&theme=dark&repo=ANP-stack&description_lines_count=1" alt="Readme Card" width="260" height="100" />
 </div>
-
----
-
-### :writing_hand: My Website :
-
-[qiweiy.me](https://qiweiy.me)
