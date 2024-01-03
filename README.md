@@ -25,7 +25,9 @@ Here are some ideas to get you started:
 <a href="https://qiweiy.me">
   <img src="https://img.shields.io/badge/My%20Website-blue" alt="My Website"/>
 </a>
-<img src="https://komarev.com/ghpvc/?username=qiweiii&style=flat-square&color=blue" alt=""/>
+<a href="https://github.com/qiweiii">
+  <img src="https://komarev.com/ghpvc/?username=qiweiii&style=flat-square&color=blue" alt="My Github"/>
+</a>
 
 
 ### :man_technologist: About Me :
@@ -44,8 +46,7 @@ Here are some ideas to get you started:
 <div>
   <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=qiweiii&show_icons=true&theme=radical" alt="GitHub stats" height="160" />
   &nbsp;
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=qiweiii&langs_count=9&layout=compact&theme=radical&hide=html,css,svelte,swift,python" alt="Top Langs" height="160" />
-
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=qiweiii&langs_count=14&layout=compact&theme=radical&hide=html,css,svelte" alt="Top Langs" height="160" />
   <img src="http://github-readme-streak-stats.herokuapp.com?user=qiweiii&theme=dark&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" height="180" />
 </div>
 
