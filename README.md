@@ -42,35 +42,58 @@ Here are some ideas to get you started:
 
 ---
 
-### :hammer_and_wrench: Languages and Tools :
+### :fire: My Stats :
 
 <div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TypeScript"  alt="TypeScript" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux " width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nestjs/nestjs-plain-wordmark.svg" title="NestJS" **alt="NestJS" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/graphql/graphql-plain-wordmark.svg" title="GraphQL" **alt="GraphQL" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="Postgres" **alt="Postgres" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="Docker" **alt="Docker" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-plain-wordmark.svg" title="k8s" **alt="k8s" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
-</div>
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=qiweiii&show_icons=true&theme=radical" alt="GitHub stats" height="180" />
+  &nbsp;
 
-and more...
+  <div>
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=qiweiii&langs_count=12&layout=compact&theme=radical&hide=html,css,svelte,swift" alt="Top Langs" height="170" />
+    &nbsp;
+    <img src="http://github-readme-streak-stats.herokuapp.com?user=qiweiii&theme=dark&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" height="170" />
+  </div>
+</div>
 
 ---
 
-### :fire: My Stats :
+### 📌 My Pins :
 
-[![GitHub stats](https://github-readme-stats-eight-theta.vercel.app/api?username=qiweiii&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=qiweiii&langs_count=8&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=qiweiii&theme=dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
-
+<div>
+  <div>
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=qiweiii&theme=dark&repo=markdown-sticky-notes&description_lines_count=1" alt="Readme Card" width="300" height="120" height="120" />
+    &nbsp;
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=qiweiii&theme=dark&repo=You-Dont-Know-JS&description_lines_count=1" alt="Readme Card" width="300" height="120" height="120" />
+    &nbsp;
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=qiweiii&theme=dark&repo=material-ui&description_lines_count=1" alt="Readme Card" width="300" height="120" height="120" />
+  </div>
+  <div>
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=qiweiii&theme=dark&repo=chopsticks&description_lines_count=1" alt="Readme Card" width="300" height="120" />
+    &nbsp;
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=qiweiii&theme=dark&repo=foundry&description_lines_count=1" alt="Readme Card" width="300" height="120" />
+    &nbsp;
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=qiweiii&theme=dark&repo=rooks&description_lines_count=1" alt="Readme Card" width="300" height="120" />
+  </div>
+  <div>
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=qiweiii&theme=dark&repo=openzeppelin-contracts&description_lines_count=1" alt="Readme Card" width="300" height="120" />
+    &nbsp;
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=qiweiii&theme=dark&repo=helios&description_lines_count=1" alt="Readme Card" width="300" height="120" />
+    &nbsp;
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=qiweiii&theme=dark&repo=solana-program-library&description_lines_count=1" alt="Readme Card" width="300" height="120" />
+  </div>
+  <div>
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=qiweiii&theme=dark&repo=trin&description_lines_count=1" alt="Readme Card" width="300" height="120" />
+    &nbsp;
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=qiweiii&theme=dark&repo=forest&description_lines_count=1" alt="Readme Card" width="300" height="120" />
+    &nbsp;
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=qiweiii&theme=dark&repo=esbuild-plugin-execute&description_lines_count=1" alt="Readme Card" width="300" height="120" />
+  </div>
+  <div>
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=qiweiii&theme=dark&repo=fullstack-cdk-app&description_lines_count=1" alt="Readme Card" width="300" height="120" />
+    &nbsp;
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=qiweiii&theme=dark&repo=ANP-stack&description_lines_count=1" alt="Readme Card" width="300" height="120" />
+  </div>
+</div>
 
 ---
 
