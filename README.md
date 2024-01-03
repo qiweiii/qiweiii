@@ -48,6 +48,7 @@ Here are some ideas to get you started:
   &nbsp;
   <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=qiweiii&langs_count=14&layout=compact&theme=radical&hide=html,css,svelte" alt="Top Langs" height="160" />
   <img src="http://github-readme-streak-stats.herokuapp.com?user=qiweiii&theme=dark&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" height="200" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/wakatime?username=qiweiiii&theme=dark" alt="Wakatime Stats" />
 </div>
 
 ---
