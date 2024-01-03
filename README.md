@@ -57,33 +57,33 @@ Here are some ideas to get you started:
 ### 📌 My Pins :
 
 <div>
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=qiweiii&theme=dark&repo=markdown-sticky-notes&description_lines_count=1" alt="Readme Card" width="280" height="100" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=qiweiii&theme=dark&repo=markdown-sticky-notes&description_lines_count=1" alt="Readme Card" width="260" height="100" />
   &nbsp;
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=qiweiii&theme=dark&repo=You-Dont-Know-JS&description_lines_count=1" alt="Readme Card" width="280" height="100" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=qiweiii&theme=dark&repo=You-Dont-Know-JS&description_lines_count=1" alt="Readme Card" width="260" height="100" />
   &nbsp;
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=qiweiii&theme=dark&repo=material-ui&description_lines_count=1" alt="Readme Card" width="280" height="100" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=qiweiii&theme=dark&repo=rooks&description_lines_count=1" alt="Readme Card" width="260" height="100" />
   &nbsp;
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=qiweiii&theme=dark&repo=rooks&description_lines_count=1" alt="Readme Card" width="280" height="100" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=qiweiii&theme=dark&repo=material-ui&description_lines_count=1" alt="Readme Card" width="260" height="100" />
   &nbsp;
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=qiweiii&theme=dark&repo=chopsticks&description_lines_count=1" alt="Readme Card" width="280" height="100" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=qiweiii&theme=dark&repo=chopsticks&description_lines_count=1" alt="Readme Card" width="260" height="100" />
   &nbsp;
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=qiweiii&theme=dark&repo=foundry&description_lines_count=1" alt="Readme Card" width="280" height="100" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=qiweiii&theme=dark&repo=foundry&description_lines_count=1" alt="Readme Card" width="260" height="100" />
   &nbsp;
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=qiweiii&theme=dark&repo=openzeppelin-contracts&description_lines_count=1" alt="Readme Card" width="280" height="100" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=qiweiii&theme=dark&repo=openzeppelin-contracts&description_lines_count=1" alt="Readme Card" width="260" height="100" />
   &nbsp;
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=qiweiii&theme=dark&repo=helios&description_lines_count=1" alt="Readme Card" width="280" height="100" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=qiweiii&theme=dark&repo=helios&description_lines_count=1" alt="Readme Card" width="260" height="100" />
   &nbsp;
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=qiweiii&theme=dark&repo=solana-program-library&description_lines_count=1" alt="Readme Card" width="280" height="100" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=qiweiii&theme=dark&repo=solana-program-library&description_lines_count=1" alt="Readme Card" width="260" height="100" />
   &nbsp;
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=qiweiii&theme=dark&repo=trin&description_lines_count=1" alt="Readme Card" width="280" height="100" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=qiweiii&theme=dark&repo=trin&description_lines_count=1" alt="Readme Card" width="260" height="100" />
   &nbsp;
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=qiweiii&theme=dark&repo=forest&description_lines_count=1" alt="Readme Card" width="280" height="100" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=qiweiii&theme=dark&repo=forest&description_lines_count=1" alt="Readme Card" width="260" height="100" />
   &nbsp;
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=qiweiii&theme=dark&repo=esbuild-plugin-execute&description_lines_count=1" alt="Readme Card" width="280" height="100" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=qiweiii&theme=dark&repo=esbuild-plugin-execute&description_lines_count=1" alt="Readme Card" width="260" height="100" />
   &nbsp;
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=qiweiii&theme=dark&repo=fullstack-cdk-app&description_lines_count=1" alt="Readme Card" width="280" height="100" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=qiweiii&theme=dark&repo=fullstack-cdk-app&description_lines_count=1" alt="Readme Card" width="260" height="100" />
   &nbsp;
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=qiweiii&theme=dark&repo=ANP-stack&description_lines_count=1" alt="Readme Card" width="280" height="100" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=qiweiii&theme=dark&repo=ANP-stack&description_lines_count=1" alt="Readme Card" width="260" height="100" />
 </div>
 
 ---
