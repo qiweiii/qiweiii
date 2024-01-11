@@ -45,10 +45,10 @@ Here are some ideas to get you started:
   <img src="https://github-readme-stats-eight-theta.vercel.app/api/wakatime?username=qiweiiii&theme=dark" alt="Wakatime Stats" />
 </div>
 
----
+<!-- --- -->
 
-### 📌 My Pins :
-
+<!-- ### 📌 My Pins : -->
+<!--
 <div>
   <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=qiweiii&theme=dark&repo=markdown-sticky-notes&description_lines_count=1" alt="Readme Card" width="260" height="100" />
   &nbsp;
@@ -83,4 +83,4 @@ Here are some ideas to get you started:
   <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=qiweiii&theme=dark&repo=fullstack-cdk-app&description_lines_count=1" alt="Readme Card" width="260" height="100" />
   &nbsp;
   <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=qiweiii&theme=dark&repo=ANP-stack&description_lines_count=1" alt="Readme Card" width="260" height="100" />
-</div>
+</div> -->
