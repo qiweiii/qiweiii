@@ -26,11 +26,11 @@ Here are some ideas to get you started:
 
 ### :man_technologist: About Me :
 
-- 🧔 I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from China.
+- 🧔 I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Earth.
 
-- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building *web2* and *web3* applications.
+- :telescope: I’m contributing to open source projects for building *web2* and *web3* applications.
 
-- :zap: In my free time, I love to watch shows 🎥, play badminton 🏸, go hiking ⛰️, go skiing 🎿 and play guitar 🎸.
+- :zap: In my free time, I love to code 💻, watch shows 🎥, play badminton 🏸, go hiking ⛰️, go skiing 🎿 and play guitar 🎸.
 
 
 ---
