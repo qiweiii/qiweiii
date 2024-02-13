@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 
 ### :man_technologist: About Me :
 
-- 🧔 I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Earth.
+- 🧔 I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> working from home.
 
 - :telescope: I’m contributing to open source projects for building *web2* and *web3* applications.
 
