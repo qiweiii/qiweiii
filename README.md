@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 
 ---
 
-### :fire: My Stats :
+### :fire: My Stats
 
 <div>
   <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=qiweiii&show_icons=true&theme=tokyonight" alt="GitHub stats" height="195" />
