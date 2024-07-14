@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 
 - :telescope: I’m contributing to open source projects for building *web2* and *web3* applications.
 
-- :zap: In my free time, I love to code 💻, watch shows 🎥, play badminton 🏸, go skiing 🎿 and play the guitar 🎸!
+- :zap: In my free time, I love to code 💻, watch shows 🎥, play badminton 🏸, go skiing 🎿 and play the guitar 🎸
 
 
 ---
