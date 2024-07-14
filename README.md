@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 <h1>
   Hey there
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"/>
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"/>
 </h1>
 
 <a href="https://www.linkedin.com/in/qiwei-yang-679617142"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
