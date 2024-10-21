@@ -40,7 +40,7 @@ Here are some ideas to get you started:
 <div>
   <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=qiweiii&show_icons=true&theme=tokyonight" alt="GitHub stats" height="195" />
   <img src="http://github-readme-streak-stats.herokuapp.com?user=qiweiii&theme=dark&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" height="195" />
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/wakatime?username=qiweiiii&theme=dark" alt="Wakatime Stats" />
+  <!-- <img src="https://github-readme-stats-eight-theta.vercel.app/api/wakatime?username=qiweiiii&theme=dark" alt="Wakatime Stats" /> -->
 </div>
 
 <!-- --- -->
