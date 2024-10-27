@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 
 - 🧔 I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> working from home.
 
-- :telescope: I’m contributing to open source projects for building *web2* and *web3* applications.
+- :telescope: I'm contributing to open source projects for building *web2* and *web3* applications.
 
 - :zap: In my free time, I love to code 💻, read fictions 📚, watch shows 🎥, play badminton 🏸, go skiing 🎿, and I also play instruments 🎸 🎻 🎹
 
