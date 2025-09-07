@@ -19,7 +19,7 @@ Here are some ideas to get you started:
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"/>
 </h1>
 
-<a href="https://www.linkedin.com/in/qiwei-yang-679617142"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
+<a href="https://www.linkedin.com/in/qiwei-yang-swe"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
 <a href="https://qiweiy.me"><img src="https://img.shields.io/badge/My%20Website-blue" alt="My Website"/></a>
 <a href="https://github.com/qiweiii"><img src="https://komarev.com/ghpvc/?username=qiweiii&style=flat-square&color=blue" alt="My Github"/></a>
 
