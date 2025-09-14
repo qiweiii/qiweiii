@@ -23,16 +23,6 @@ Here are some ideas to get you started:
 <a href="https://qiweiy.me"><img src="https://img.shields.io/badge/My%20Website-blue" alt="My Website"/></a>
 <a href="https://github.com/qiweiii"><img src="https://komarev.com/ghpvc/?username=qiweiii&style=flat-square&color=blue" alt="My Github"/></a>
 
-
-### :man_technologist: About Me :
-
-- 🧔 I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> working from home.
-
-- :telescope: I'm contributing to open source projects for building *web2* and *web3* applications.
-
-- :zap: In my free time, I love to code 💻, read fictions 📚, watch shows 🎥, play badminton 🏸, go skiing 🎿, and I also play instruments 🎸 🎻 🎹
-
-
 ---
 
 ### :fire: My Stats
